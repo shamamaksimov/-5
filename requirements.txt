@@ -1,0 +1,7 @@
+pytest
+httpx
+allure-pytest
+jsonschema
+pydantic>=2
+pydantic-settings
+python-dotenva
